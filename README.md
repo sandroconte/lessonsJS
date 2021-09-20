@@ -1,3 +1,4 @@
 # lessonsJS
 
 ## Diego
+## Sandro

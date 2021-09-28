@@ -1,4 +1,7 @@
 # lessonsJS
 
 ## Diego
+
 ## Sandro
+
+## Tomaas
